@@ -7,7 +7,7 @@
 Workshop goals.
 In this workshop we will teach you X
 
-
+https://github.com/Reproducible-Science-Curriculum/introduction-RR-Jupyter/blob/master/notebooks/Intro-to-reproducible-research.ipynb
 
 ### Why are we teaching this
 
