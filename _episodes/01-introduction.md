@@ -17,18 +17,25 @@ keypoints:
 
 ## Why are we teaching this
 
-Why is this important
-For future and current you
-For research as a whole
+* Why is this important
+    - For future and current you
+    - For research as a whole
+    - [Lack of reproducibility in research is a real problem](https://github.com/Reproducible-Science-Curriculum/introduction-RR-Jupyter/blob/gh-pages/notebooks/Intro-to-reproducible-research.ipynb)
 
 ## Materials and how we'll use them
 
-- Workshop landing page, with 
+- [Workshop landing page](http://www.datacarpentry.org/2018-01-11-ucmerced/), with 
     * links to the Materials
     * schedule
+- Structure oriented along the _Four Facets of Reproducibility_:
+    * Documentation
+    * Organization
+    * Automation
+    * Dissemination
+
 - Will be available after the Workshop
 
- ## How this workshop is run
+## How this workshop is run
 
 - This is a Carpentries Workshop
   - that means friendly learning environment
